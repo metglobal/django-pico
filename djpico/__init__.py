@@ -6,4 +6,4 @@ License: BSD
 """
 
 __author__ = 'Fergal Walsh'
-__version__ = '0.0.4'
+__version__ = '0.0.5'
